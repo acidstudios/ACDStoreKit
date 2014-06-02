@@ -19,7 +19,7 @@ it, simply add the following line to your Podfile:
 
 ## Author
 
-, 
+Gustavo Barrientos Guerrero, gustavo.barrientos@acidstudios.me 
 
 ## License
 
